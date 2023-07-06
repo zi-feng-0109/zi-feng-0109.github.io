@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zi-feng-0109.github.io/posts/8ca51f8a.html</loc>
+    
+    <lastmod>2023-07-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zi-feng-0109.github.io/posts/7e128cf7.html</loc>
     
     <lastmod>2023-06-20</lastmod>
@@ -130,7 +139,7 @@
 
   <url>
     <loc>https://zi-feng-0109.github.io/</loc>
-    <lastmod>2023-06-20</lastmod>
+    <lastmod>2023-07-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -138,21 +147,21 @@
   
   <url>
     <loc>https://zi-feng-0109.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-06-20</lastmod>
+    <lastmod>2023-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zi-feng-0109.github.io/tags/%E6%8A%80%E6%9C%AF%E6%84%9A%E8%A7%81/</loc>
-    <lastmod>2023-06-20</lastmod>
+    <lastmod>2023-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zi-feng-0109.github.io/tags/%E4%BD%9C%E4%B8%9A/</loc>
-    <lastmod>2023-06-20</lastmod>
+    <lastmod>2023-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -161,21 +170,21 @@
   
   <url>
     <loc>https://zi-feng-0109.github.io/categories/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-06-20</lastmod>
+    <lastmod>2023-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zi-feng-0109.github.io/categories/%E6%8A%80%E6%9C%AF%E6%84%9A%E8%A7%81/</loc>
-    <lastmod>2023-06-20</lastmod>
+    <lastmod>2023-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zi-feng-0109.github.io/categories/%E4%BD%9C%E4%B8%9A/</loc>
-    <lastmod>2023-06-20</lastmod>
+    <lastmod>2023-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
